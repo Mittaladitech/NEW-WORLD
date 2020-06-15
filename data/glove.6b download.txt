@@ -1,0 +1,3 @@
+Please download glove.6B.50dtxt data set and save them in data floder
+
+ https://www.kaggle.com/watts2/glove6b50dtxt
